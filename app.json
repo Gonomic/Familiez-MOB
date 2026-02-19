@@ -31,7 +31,7 @@
         "expo-splash-screen",
         {
           "image": "./assets/images/FamiliezSplash.png",
-          "imageWidth": 200,
+          "imageWidth": 540,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
           "dark": {
